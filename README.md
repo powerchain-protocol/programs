@@ -337,7 +337,7 @@ Deploy order:
 Current protocol version:
 
 ```
-1.0.0-beta.51
+1.0.0-beta.1
 ```
 
 Programs use semantic versioning and are upgraded through governance where applicable.
